@@ -1,0 +1,33 @@
+This is my submitted Duolingo Project 1 repository. The architecture is intentionally compact. model.py contains the core accounting and valuation engine. analysis.py runs the required analysis and generates the outputs. validate.py independently tests the model, and panel.py provides the interactive workbench. The data folder contains inputs and source evidence. Outputs contains the executed results, and docs contains the final research and validation records.
+
+The core financial logic is in model.py. It starts from Duolingo's historical financials and H1 2026 information and forecasts the company through 2030.
+
+The three statements are linked. Revenue and operating assumptions drive the income statement. Those changes flow into working capital and asset balances, and cash reconciles through the cash flow statement.
+
+That operating forecast then drives FCFF. The model discounts those cash flows using WACC, calculates terminal value, and completes the enterprise-value-to-equity bridge using dated liquidity and diluted shares. Keeping this in one engine means the base case, sensitivities, and workbench all use the same financial logic.
+
+analysis.py runs that engine and produces the analysis required for the investment decision. It generates the causal low, base, and high cases, one-at-a-time sensitivities, the WACC-growth grid, reverse DCF, and valuation multiples.
+
+My final base valuation is $137.57 per share, with causal low, base, and high values of $114.20, $137.57, and $165.01.
+
+The highest-risk technical issue I identified came from an earlier version of the project. The model could accept an independently corrupted FCFF number even when the accounting statements themselves still appeared consistent.
+
+This is dangerous because the financial statements could balance while the actual cash flow being valued was wrong.
+
+In the final version, validate.py independently reconstructs FCFF from operating NOPAT, depreciation, capital expenditure, and the change in operating working capital.
+
+I deliberately test a $100 million corruption of FCFF, and the final validation rejects it rather than allowing the incorrect number into the DCF.
+
+I also test accounting articulation, enterprise-to-equity reconciliation, WACC and growth directionality, reverse DCF, peer definitions, and invalid workbench inputs.
+
+I then performed a cold run in a fresh isolated environment without existing outputs or caches.
+
+That run reproduced the $137.57 valuation, passed 148 model checks and 70 independent validation checks, and the panel validation passed 54 HTTP checks. This demonstrates that the submitted results can be reproduced from the project itself.
+
+The main limitation is that passing these checks establishes internal consistency, not economic certainty.
+
+Terminal value is about 84% of enterprise value, and my estimated beta has low explanatory power. So those assumptions remain material risks even though the model passes its technical checks.
+
+To reproduce the project, a clean user follows the README. All the user needs to do is run these three commands in order and open this web address in their browser, and they should be able to see the live demonstration of my project.
+
+The submitted repository contains the source data, executable model, visible results, validation evidence, and the cold-run record.

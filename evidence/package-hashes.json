@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-10-19T02:57:57.273564+00:00",
+  "created_utc": "2026-10-19T05:24:06.343603+00:00",
   "scope": "Standalone repository snapshot; excludes this hash index itself and .git. Recompute after edits.",
   "files": [
     {
@@ -149,18 +149,33 @@
     },
     {
       "file": "docs/research-evolution.md",
-      "bytes": 10588,
-      "sha256": "b88e55e9cc5981ee705972eaab180637c0b0cb33a56f637e6962c3c5d9461147"
+      "bytes": 10689,
+      "sha256": "7c60da51833798176e5269e5d61839b36ead76d880a62ecad316bb52db3169a1"
     },
     {
       "file": "docs/Research-Evolution.pdf",
-      "bytes": 90411,
-      "sha256": "0d9ba69c8df53ee5c2c63098aa9a9914f30dff700365b3788ff9ea1e6b73dc12"
+      "bytes": 90487,
+      "sha256": "080b67121104743a7f3a5dd8b4054beaf07407ce0b4082cbbce2a42069e4b532"
     },
     {
       "file": "docs/sources.md",
       "bytes": 4890,
       "sha256": "566f3ad8c6e817ad6b456a7c16f8bb2c416346b999b80a82d094e67e83dceeb0"
+    },
+    {
+      "file": "docs/transcript-video-1.txt",
+      "bytes": 2621,
+      "sha256": "e5d4d2ff5c0672f58740c3be9ae27a0126efebf655a5abf9be5e7595fd106441"
+    },
+    {
+      "file": "docs/transcript-video-2.txt",
+      "bytes": 3376,
+      "sha256": "1f22135dccd8b3a115700adb1d5d19f262f1151c9ba7e1263bb03e4502b4f251"
+    },
+    {
+      "file": "docs/transcript-video-3.txt",
+      "bytes": 3700,
+      "sha256": "2d44903c4b4b385d33da2a7f96262f814eabcc0792da847847831ff274fff474"
     },
     {
       "file": "docs/validation-and-ai-use.md",
@@ -329,8 +344,8 @@
     },
     {
       "file": "README.md",
-      "bytes": 9610,
-      "sha256": "e5c618992eee318c7f8a3996d822b1c08b63a3c4de9bb6d11462b75670334c6f"
+      "bytes": 10220,
+      "sha256": "a7601201044d1592fb7e54a57f8aaeb9037fc04cb45529ddc861747996624386"
     },
     {
       "file": "requirements.txt",
@@ -339,8 +354,8 @@
     },
     {
       "file": "submission-manifest.csv",
-      "bytes": 2194,
-      "sha256": "9002b84725428bbd780bb36ddb684983a1566e23804d46706a201ac6123b6a8f"
+      "bytes": 3474,
+      "sha256": "a35c70ac82bd5fcea822f5f2d93ba5877af7bf8585f3d12d1391887b881c2b5a"
     },
     {
       "file": "validate.py",

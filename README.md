@@ -78,13 +78,22 @@ No hosted frontend, extra website or slide deck is needed. This browser panel is
 
 The model, executed output, research evolution, decision memo and validation record are complete. AI use (Codex gpt-6-astra; Claude Opus 5.5 review) is disclosed in the validation record.
 
-The remaining submission items are:
+## Videos and transcripts
 
-1. Edition A checkpoint/receipt resolution with the instructor through the course process.
-2. Video 1 (research evolution, maximum 3 minutes), Video 2 (code/validation, maximum 5 minutes), and Video 3 (live demonstration and committee defense, maximum 5 minutes).
-3. Three corrected transcripts derived from the actual recordings.
-4. Recording links, durations, timestamp indexes, frozen version and access checks in the manifest.
-5. Verify grader access, submit the repository link through Brightspace and retain the receipt.
+| Video | Recording | Duration | Transcript |
+| --- | --- | --- | --- |
+| 1: Research evolution | [YouTube](https://youtu.be/EXpRGi9TphA) | 3:14 | [Transcript](docs/transcript-video-1.txt) |
+| 2: Code and validation | [YouTube](https://youtu.be/7TnwDeIKJ_s) | 5:00 | [Transcript](docs/transcript-video-2.txt) |
+| 3: Live demonstration and investment committee defense | [YouTube](https://youtu.be/iwJ7RbFtllU) | 4:41 | [Transcript](docs/transcript-video-3.txt) |
+
+YouTube metadata checked without authentication on October 19, 2026 reports all three recordings playable. Transcripts are supplied by the author and preserved verbatim; full playback and transcript alignment have not been independently reviewed.
+
+Remaining submission items:
+
+1. Trim Video 1 from 3:14 to no more than 3:00, then update its link and transcript. Video 2 is exactly 5:00; Video 3 is 4:41.
+2. Verify recording/transcript alignment and add actual timestamp indexes to the submission manifest.
+3. Resolve the Edition A checkpoint/receipt with the instructor through the course process.
+4. Verify grader access, submit through Brightspace and retain the receipt.
 
 The Locked Changed-Input Record includes my in-class AI-closed prediction and reproduced historical results. Exact historical execution timing and a contemporaneous formal action statement are not separately established.
 

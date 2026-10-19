@@ -1,0 +1,61 @@
+This is my Duolingo valuation workbench.
+
+The base value is $137.57 per diluted share using September 21, 2026 inputs. I will now increase the gross margin path by 1 percentage point while holding the other assumptions fixed.
+
+As you can see, the value increases to approximately $142.86.
+
+Higher gross margin increases gross profit and operating income, which increases after-tax operating cash flow and ultimately the valuation.
+
+Resetting to base resets the value to $137.57.
+
+This table isolates gross margin. It compares the lower, base, and higher margin cases while every other assumption stays at its original base, and it shows the effect on operating profit, free cash flow, and value.
+
+Now I'm deliberately setting terminal growth equal to WACC. That makes the perpetual-growth calculation invalid, so the model blocks the valuation and the calculated results.
+
+Resetting to base.
+
+For a fund with no existing position and a three-to-five-year investment horizon, my recommendation is Watch or Defer.
+
+The dated market price is $149.42, compared with my base value of $137.57.
+
+My conditional low-to-high operating range is $114.20 to $165.01.
+
+That gives about 8% downside to base value, roughly 24% downside in the low case, and about 10% upside in the high case. That is not enough of a valuation cushion for me to recommend initiation.
+
+The valuation comes from a linked five-year operating model and FCFF DCF. Filed first-half 2026 information anchors the forecast, and only future cash flow after the valuation date enters the DCF.
+
+I use approximately 8.28% WACC and 3% terminal growth. The resulting enterprise value is about $5.61 billion.
+
+After adding estimated excess liquidity, subtracting debt, and dividing by 50.7 million diluted shares, I get the $137.57 base value.
+
+The income statement, balance sheet, and cash-flow statements are linked through 2030 rather than forecast independently.
+
+The biggest model limitation is that terminal value contributes about 84% of enterprise value, so the valuation remains highly sensitive to long-term assumptions.
+
+My weakest operating assumption is revenue growth reaccelerating to 18% in 2027. That is my own forecast judgment, not management guidance.
+
+Removing that reacceleration reduces value to about $127 per share, and a separate terminal return-on-capital stress reduces value to about $126.
+
+These results reinforce caution rather than support one precise fair value.
+
+I also use other valuation evidence rather than relying only on the base DCF.
+
+Market enterprise value is about six times historical revenue.
+
+Equity value is about 18 times reported earnings, but about 55 times normalized earnings because reported earnings include a large one-time tax benefit.
+
+My peer policy excludes companies whose earnings or entity definitions are not sufficiently comparable, so I do not claim an independent peer-price target.
+
+I therefore explain the disagreement across methods instead of mechanically averaging them.
+
+I would reconsider initiation if the stock traded at or below the current low-case estimate of about $114 while updated evidence still supported the base operating assumptions.
+
+A lower price by itself would not be enough.
+
+I will monitor bookings, gross margin, stock compensation, and revenue growth.
+
+For FY2027, bookings growth below 13%, gross margin below 70.6%, or stock compensation above 17% of revenue would trigger a rebuild.
+
+Persistent deterioration could change the recommendation to Do Not Initiate.
+
+My committee request is to keep Duolingo on watch, commit no capital at the dated price, and reassess after the next two reports.

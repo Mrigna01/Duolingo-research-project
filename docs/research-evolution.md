@@ -66,4 +66,4 @@ The IBM partner challenged the growth path in Lab 10 and the AI cost/revenue cha
 | Assumption/model design | Not yet modeled | Three-statement pro-forma driving FCFF DCF | Course instruction / AI | 148 model checks; known answer |
 | Risk/limitation | Valuation burden unknown | Terminal 84% of EV; imprecise beta; 2027 growth vs bookings | Own analysis / AI review | wacc.json; named_stresses.csv |
 
-Remaining requirements are the three recordings with corrected transcripts and final access/checkpoint/receipt evidence. See Validation-and-AI-Use.pdf and submission-manifest.csv.
+The three recordings and author-supplied transcripts are linked in README.md and submission-manifest.csv. Video 1 is 3:14 and requires trimming to the 3:00 limit. Timestamp indexes, recording/transcript alignment and final access/checkpoint/receipt evidence remain to be verified.

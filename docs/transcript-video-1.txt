@@ -1,0 +1,25 @@
+For Project 1, my target company is Duolingo, and the decision is whether a buy-side investment committee with no existing position should initiate, watch or defer, or not initiate the stock.
+
+In Edition A, my preliminary recommendation was Watch or Defer. At that point, I had identified Duolingo as a strong-growing business, but I was still concerned about whether its profitability and monetization could justify the valuation. I had also identified important unknowns around sustainable growth, margins, and what assumptions would actually be required to support the market price.
+
+Most importantly, in Edition A, I did not yet have a complete valuation model, so Watch or Defer was still a preliminary research judgment.
+
+In Edition B, the recommendation remains Watch or Defer, but now I can support that judgment quantitatively. My final five-year pro forma DCF gives a base value of $137.57 per share, with causal low, base, and high cases of $114.20, $137.57, and $165.01.
+
+That compares with Duolingo's September 21 market price of $149.42.
+
+The biggest change from Edition A to Edition B was the valuation architecture underneath the recommendation. My early Lab 6 valuation was about $252 per share because it started with Duolingo's reported company free cash flow and projected that cash flow directly.
+
+As the project developed, I replaced that approach with a full five-year three-statement operating forecast that drives FCFF. I also incorporated filed H1 2026 information, partial-year timing, a dated liquidity bridge, and terminal reinvestment.
+
+So the change in valuation was not caused by one assumption. It came from several improvements in how the business and its cash flows were modeled.
+
+One AI-assisted output I independently checked was the use of Duolingo's reported company free cash flow as FCFF in the DCF.
+
+The reported free cash flow number itself, about $360 million, was arithmetically correct based on the 2025 filing. But I qualified the AI interpretation because company free cash flow is not the same as operating FCFF for this valuation.
+
+Operating cash flow includes stock-compensation add-backs and interest income, while my final model treats stock compensation as an operating shareholder cost and values excess liquidity separately.
+
+So I modified the model to calculate FCFF from operating NOPAT plus depreciation, less capital expenditure and operating working-capital investment.
+
+So while the recommendation stayed Watch or Defer from Edition A to Edition B, the evidence supporting that decision became substantially stronger and more testable.
