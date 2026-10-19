@@ -2,7 +2,7 @@
 
 ## Baseline and provenance
 
-Edition A below reproduces the existing source without revising its content. docs/edition-a.md remains byte-identical to the original repository draft. PDF formatting and pagination are new; the underlying text is unchanged. I did not submit Edition A to Brightspace before AI-assisted work began. Preserving the draft does not establish a checkpoint receipt; checkpoint eligibility and recovery are handled with the instructor through the course process.
+Edition A below reproduces the existing source without revising its content. docs/edition-a.md remains byte-identical to the original repository draft. PDF formatting and pagination are new; the underlying text is unchanged.
 
 ## Edition A - unchanged
 

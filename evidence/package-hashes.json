@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-10-19T02:30:41.368134+00:00",
+  "created_utc": "2026-10-19T02:43:08.771319+00:00",
   "scope": "Standalone repository snapshot; excludes this hash index itself and .git. Recompute after edits.",
   "files": [
     {
@@ -149,13 +149,13 @@
     },
     {
       "file": "docs/research-evolution.md",
-      "bytes": 11077,
-      "sha256": "73cf47ea59c6447ab13c8c8888ea1eb379c57017f055b0964f01fbabca5f05c8"
+      "bytes": 10846,
+      "sha256": "b864c0671e2b155ce404843d0176f56b98e60504b77f02231ba8b6b78741babb"
     },
     {
       "file": "docs/Research-Evolution.pdf",
-      "bytes": 90787,
-      "sha256": "64d93d90855f78dab3424c3701ddea617457c2264e7f30e2a7dec5a048c8609b"
+      "bytes": 90638,
+      "sha256": "d5f57c733a7ea1dfa49f1fd852b050ca19c2ef87488e3ab70ef56b29d9c72acd"
     },
     {
       "file": "docs/sources.md",
@@ -340,7 +340,7 @@
     {
       "file": "submission-manifest.csv",
       "bytes": 2194,
-      "sha256": "aca7860a2be25f28fa943b67f1659153ee25f42192617eed45b67a8a981e2138"
+      "sha256": "09ab94bf5a256761c559fa384d331c088193c95bef4e23b217fa6bfba1306949"
     },
     {
       "file": "validate.py",
