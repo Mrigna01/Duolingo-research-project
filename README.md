@@ -82,18 +82,19 @@ The model, executed output, research evolution, decision memo and validation rec
 
 | Video | Recording | Duration | Transcript |
 | --- | --- | --- | --- |
-| 1: Research evolution | [YouTube](https://youtu.be/EXpRGi9TphA) | 3:14 | [Transcript](docs/transcript-video-1.txt) |
+| 1: Research evolution | [YouTube](https://youtu.be/6PSPosCCz08) | 2:57 | [Transcript](docs/transcript-video-1.txt) |
 | 2: Code and validation | [YouTube](https://youtu.be/7TnwDeIKJ_s) | 5:00 | [Transcript](docs/transcript-video-2.txt) |
 | 3: Live demonstration and investment committee defense | [YouTube](https://youtu.be/iwJ7RbFtllU) | 4:41 | [Transcript](docs/transcript-video-3.txt) |
 
 YouTube metadata checked without authentication on October 19, 2026 reports all three recordings playable. Transcripts are supplied by the author and preserved verbatim; full playback and transcript alignment have not been independently reviewed.
 
+All three videos meet their duration limits: Video 1 is 2:57, Video 2 is 5:00, and Video 3 is 4:41. Video 1 was replaced on October 19; its transcript is retained unchanged at the author's instruction.
+
 Remaining submission items:
 
-1. Trim Video 1 from 3:14 to no more than 3:00, then update its link and transcript. Video 2 is exactly 5:00; Video 3 is 4:41.
-2. Verify recording/transcript alignment and add actual timestamp indexes to the submission manifest.
-3. Resolve the Edition A checkpoint/receipt with the instructor through the course process.
-4. Verify grader access, submit through Brightspace and retain the receipt.
+1. Verify recording/transcript alignment and add actual timestamp indexes to the submission manifest.
+2. Resolve the Edition A checkpoint/receipt with the instructor through the course process.
+3. Verify grader access, submit through Brightspace and retain the receipt.
 
 The Locked Changed-Input Record includes my in-class AI-closed prediction and reproduced historical results. Exact historical execution timing and a contemporaneous formal action statement are not separately established.
 
