@@ -1,9 +1,5 @@
 # Research Evolution | DUOL
 
-## Baseline and provenance
-
-Edition A below reproduces the existing source without revising its content. docs/edition-a.md remains byte-identical to the original repository draft. PDF formatting and pagination are new; the underlying text is unchanged.
-
 ## Edition A - unchanged
 
 <!-- UNCHANGED EDITION A -->
