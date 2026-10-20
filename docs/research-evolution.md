@@ -55,7 +55,7 @@ Market EV/sales is 5.99x under the diluted-equity convention; equity/reported ea
 
 Watch the next two reports for revenue/bookings, margin, SBC and investment needs. Gross margin below 70.6%, growth 3pp below the path, SBC above 17% of revenue, or FY2027 bookings growth below 13% requires a rebuild; persistent thesis failure supports Do Not Initiate. A proposed initiation rule requires both price at or below the current low-case estimate and evidence supporting the base economics, with updated dated inputs. These are judgment conditions, not guaranteed outcomes.
 
-### Attribution and remaining personal evidence
+### Attribution and submission record
 
 The IBM partner challenged the growth path in Lab 10 and the AI cost/revenue channel and sensitivity ranges in Lab 11. The Apple partner challenged the AI-versus-paid-conversion interpretation in Lab 12. Their exchanges and responses are credited in docs/assumption-challenges.csv. Codex (gpt-6-astra, low reasoning) assisted consolidation, corrections, testing and drafting on October 16-18, 2026. Claude Code (Claude Opus 5.5) reviewed the package against the course requirements on October 18, 2026, adding the beta reliability statistics and named stresses. Dispositions are in the validation record.
 
@@ -66,4 +66,6 @@ The IBM partner challenged the growth path in Lab 10 and the AI cost/revenue cha
 | Assumption/model design | Not yet modeled | Three-statement pro-forma driving FCFF DCF | Course instruction / AI | 148 model checks; known answer |
 | Risk/limitation | Valuation burden unknown | Terminal 84% of EV; imprecise beta; 2027 growth vs bookings | Own analysis / AI review | wacc.json; named_stresses.csv |
 
-The three recordings and author-supplied transcripts are linked in README.md and submission-manifest.csv. The updated Video 1 is 2:57; all three recordings meet their duration limits. Timestamp indexes, recording/transcript alignment and final access/checkpoint/receipt evidence remain to be verified.
+My three final recordings and corrected transcripts are linked in README.md and indexed in submission-manifest.csv. Their durations are 2:57, 5:00 and 4:41, within the required limits.
+
+I preserved the original September 1 Edition A work record unchanged and included it in the final package. No on-time separate Brightspace checkpoint receipt is claimed; the original work record and [historical GitHub source](https://github.com/Mrigna01/DUOL-research/blob/main/DUOL-research/Duolingo_2026-09-01_edition-a-draft.md) provide the record of Edition A.

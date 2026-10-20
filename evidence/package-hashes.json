@@ -1,6 +1,6 @@
 {
-  "created_utc": "2026-10-19T05:28:46.655435+00:00",
-  "scope": "Standalone repository snapshot; excludes this hash index itself and .git. Recompute after edits.",
+  "created_utc": "2026-10-20T01:06:35.309858+00:00",
+  "scope": "Final submission snapshot; excludes this hash index itself and .git.",
   "files": [
     {
       "file": ".gitattributes",
@@ -14,8 +14,8 @@
     },
     {
       "file": "analysis.py",
-      "bytes": 15725,
-      "sha256": "74ce237840f5068bb297dd53e9180e6751ce32f5f484503bdb94ca269caa6ccd"
+      "bytes": 15783,
+      "sha256": "3ba9d665ee3f7eeb080d76c7c2e1ac49483cd5d1e51021042baa84e053b79358"
     },
     {
       "file": "build_documents.py",
@@ -130,7 +130,7 @@
     {
       "file": "docs/Decision-Memo.pdf",
       "bytes": 78992,
-      "sha256": "e91495718be7c1bf8d9f8e9094eebe1d645cb370b96e776f05edb987412918fc"
+      "sha256": "72d7ccf385f280ec56be8a39f606b1f71eeebf585cf352c984c2c1094f589b86"
     },
     {
       "file": "docs/DUOL-10-K.pdf",
@@ -149,13 +149,13 @@
     },
     {
       "file": "docs/research-evolution.md",
-      "bytes": 10710,
-      "sha256": "b81a82f327a485ea7abfc9f8f58d3111b8091fd6a362dcc19e0ab90b9584ea9d"
+      "bytes": 10951,
+      "sha256": "fe0086057aa0c021618827b82224a873ab472a431b3db585c6ad4f8e7ff702db"
     },
     {
       "file": "docs/Research-Evolution.pdf",
-      "bytes": 90493,
-      "sha256": "3dbe59222347a02ba277cc30bde2f46030197d2e987a4cb59d19aab91e814bae"
+      "bytes": 90900,
+      "sha256": "09739d676fc68229197e95b11e8065507db13b46189b68b83a505a22a716570d"
     },
     {
       "file": "docs/sources.md",
@@ -179,13 +179,13 @@
     },
     {
       "file": "docs/validation-and-ai-use.md",
-      "bytes": 14878,
-      "sha256": "4734b713c7406c24efff6ea7377091d35e5d148382cf6f969667def6771e6f98"
+      "bytes": 15468,
+      "sha256": "e60140c5e5d3868abb794473db4970ad71ccaa623cb49c663348963d1c49a96d"
     },
     {
       "file": "docs/Validation-and-AI-Use.pdf",
-      "bytes": 86638,
-      "sha256": "76952ffb2a24a18b8394600eec02b3aec0299ff52732c7034137581bfb755e2b"
+      "bytes": 87907,
+      "sha256": "fcb20b01375bf7574eb1bf90f0cd7e1e05f8e7937b6ae9e799139187c906061b"
     },
     {
       "file": "evidence/abg_known_answer.py",
@@ -300,7 +300,7 @@
     {
       "file": "outputs/run-status.json",
       "bytes": 268,
-      "sha256": "cf1b98e1ad3e8943c523d793d934ff9eef21baf7d66e73f5a7d0552675c46db9"
+      "sha256": "6960198e26f7ebb4b5adc3f3d05c328a6f1f5662006263f2ec80759d3d7f1a05"
     },
     {
       "file": "outputs/sensitivity.csv",
@@ -324,8 +324,8 @@
     },
     {
       "file": "outputs/visible-output.html",
-      "bytes": 32911,
-      "sha256": "04ab5db56d8702222535fd25d50c01b07893d6d02b4cf809a9ff80f7658b6633"
+      "bytes": 32969,
+      "sha256": "6f2d76135d3a8e205a41de7a467aea05bdd8c10bc079c824fd25d8c277164d84"
     },
     {
       "file": "outputs/wacc.json",
@@ -344,8 +344,8 @@
     },
     {
       "file": "README.md",
-      "bytes": 10297,
-      "sha256": "e0dfdc376a9e2576470fbb9ddb7d05259f76f2411815f3b554ee8cdc3d566f76"
+      "bytes": 10460,
+      "sha256": "c280103c218069ec8551a9869e4af27b5ff7adc5636e36aa01309161b74587db"
     },
     {
       "file": "requirements.txt",
@@ -354,8 +354,8 @@
     },
     {
       "file": "submission-manifest.csv",
-      "bytes": 3518,
-      "sha256": "e3b075be177898907bc1f7a2f242a7aa3b04a090b76727e75f671e1910142fc7"
+      "bytes": 5239,
+      "sha256": "62a6bb109fb5a035c8a9f1ad439e31354cfa9db106355b8d2eed6c2c747f0221"
     },
     {
       "file": "validate.py",

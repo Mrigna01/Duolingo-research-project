@@ -76,7 +76,9 @@ No hosted frontend, extra website or slide deck is needed. This browser panel is
 
 ## Submission status
 
-The model, executed output, research evolution, decision memo and validation record are complete. AI use (Codex gpt-6-astra; Claude Opus 5.5 review) is disclosed in the validation record.
+This repository is my frozen Project 1 submission. It contains the runnable model, visible executed output, final research-evolution record, decision memo, validation and AI-use record, three corrected transcripts, final video links, cold-run evidence, and submission manifest. Material Codex and Claude assistance is disclosed in the validation record; final investment judgment remains my responsibility.
+
+I preserved the original September 1 Edition A work record unchanged and included it in the final package. No on-time separate Brightspace checkpoint receipt is claimed; the original work record and [historical GitHub source](https://github.com/Mrigna01/DUOL-research/blob/main/DUOL-research/Duolingo_2026-09-01_edition-a-draft.md) provide the record of Edition A.
 
 ## Videos and transcripts
 
@@ -86,18 +88,10 @@ The model, executed output, research evolution, decision memo and validation rec
 | 2: Code and validation | [YouTube](https://youtu.be/7TnwDeIKJ_s) | 5:00 | [Transcript](docs/transcript-video-2.txt) |
 | 3: Live demonstration and investment committee defense | [YouTube](https://youtu.be/iwJ7RbFtllU) | 4:41 | [Transcript](docs/transcript-video-3.txt) |
 
-YouTube metadata checked without authentication on October 19, 2026 reports all three recordings playable. Transcripts are supplied by the author and preserved verbatim; full playback and transcript alignment have not been independently reviewed.
-
-All three videos meet their duration limits: Video 1 is 2:57, Video 2 is 5:00, and Video 3 is 4:41. Video 1 was replaced on October 19; its transcript is retained unchanged at the author's instruction.
-
-Remaining submission items:
-
-1. Verify recording/transcript alignment and add actual timestamp indexes to the submission manifest.
-2. Resolve the Edition A checkpoint/receipt with the instructor through the course process.
-3. Verify grader access, submit through Brightspace and retain the receipt.
+All three unlisted YouTube links were checked without authentication on October 19, 2026. The local final recordings run 176.566667, 299.600000 and 281.233333 seconds respectively, within the three-, five- and five-minute limits. The submission manifest indexes the recorded sections; corrected transcripts preserve my narration and financial terminology.
 
 The Locked Changed-Input Record includes my in-class AI-closed prediction and reproduced historical results. Exact historical execution timing and a contemporaneous formal action statement are not separately established.
 
 Official references: [Project 1](https://github.com/CinderZhang/FIN43900-Fall2026/blob/main/projects/project-1-corporate-finance-application.md), [shared checklist](https://github.com/CinderZhang/FIN43900-Fall2026/blob/main/projects/major-project-student-checklist.md), [AI boundary](https://github.com/CinderZhang/FIN43900-Fall2026/blob/main/projects/AI-BOUNDARY-CARD.md). Brightspace controls dates and individual recovery arrangements.
 
-Submission repository: https://github.com/Mrigna01/Duolingo-research-project . Grader access and Brightspace submission must be checked separately. The SHA256 file list in evidence/package-hashes.json identifies the packaged files; update it after edits. Historical commit references in the research records refer to the original research repository linked above.
+Submission repository: https://github.com/Mrigna01/Duolingo-research-project . The repository is public and accessible without authentication. The SHA256 file list in evidence/package-hashes.json identifies the final packaged files. Historical commit references in the research records refer to the original research repository linked above.
